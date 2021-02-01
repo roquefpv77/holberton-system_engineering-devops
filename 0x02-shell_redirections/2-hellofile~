@@ -1,2 +1,0 @@
-#!/bin/bash
-ruta="\/etc/passwd"\ cat $ruta \
